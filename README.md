@@ -6,7 +6,7 @@ Things I’m working on:
 - **TekArt** — Africa’s biggest tech and art gathering  
 - **Polu** — making printing fast and reliable in Lagos  
 - **5ive** — curating creative event experiences  
-- **Aktivated TV** — Ops & special projects  
+- **AKtivated TV** — Ops & special projects  
 
 📫 Reach me on Twitter: [@psamxx](https://twitter.com/psamxx)  
 🌐 Portfolio: [heypsam.com](https://heypsam.com)
